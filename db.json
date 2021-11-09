@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "Username": "ravi",
+      "Email": "ravi@gmail.com",
+      "Password": "ravi123",
+      "id": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
